@@ -62,3 +62,9 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 #In this design, the signature update of a Cisco device and how to position them as IPS in the network are examined.
 
 ![image](https://github.com/user-attachments/assets/1fa2c868-3c5f-4b65-95af-ca87ad805328)
+
+--------------------------------------------------------------------------------------------------------
+
+#This topology is simple, but it focuses on how protocols such as LLDP and CDP work and how to take in-depth precautions.
+
+![image](https://github.com/user-attachments/assets/02172d3f-e6f0-4562-80a5-665c79329de9)
