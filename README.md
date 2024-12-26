@@ -59,3 +59,6 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 
 -------------------------------------------------------------------------------------------------------
+#In this design, the signature update of a Cisco device and how to position them as IPS in the network are examined.
+
+![image](https://github.com/user-attachments/assets/1fa2c868-3c5f-4b65-95af-ca87ad805328)
