@@ -106,3 +106,7 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 ![image](https://github.com/user-attachments/assets/24cecfb5-3b6a-41de-9264-4eb235dd0e51)
 
+-------------------------------------------------------------------------------------------------------------------------------
+#In this scenario, protocols such as VTP, DHCP, STP were used together and their effects were examined.
+
+![image](https://github.com/user-attachments/assets/d0d25beb-6421-4dd8-a9c3-ec4c44c788c3)
