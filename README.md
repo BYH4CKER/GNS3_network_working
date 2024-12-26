@@ -74,3 +74,8 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 #NTP protocol and structure were examined. Important metrics such as Straum value have been tested on real systems and their logic has been understood.
 ![image](https://github.com/user-attachments/assets/82f47976-74dd-4861-9a2f-c59956ace262)
 
+--------------------------------------------------------------------------------------------------------
+# Network devices were managed via the web and automatic scanning of network devices was carried out with Nessus. In this scenario, the purpose is router load balancing etc. Metrics were examined on devices.
+
+![image](https://github.com/user-attachments/assets/7d69fa86-b857-40d8-9da7-f84c841b27f4)
+
