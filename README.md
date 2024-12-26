@@ -10,10 +10,17 @@ The work I have done in the GNS3 environment has been shared openly with its fil
 
 ![image](https://github.com/user-attachments/assets/a4161274-d7ca-43df-b8ef-8e95b2be3ba9)
 
-----------------
+------------------------------------------------------------------------------------------------------
 #A study was conducted on GLBP, which is the #Backup Route Protocol.
 
 ![image](https://github.com/user-attachments/assets/cde9f8d1-1536-4968-b8a6-670402d8104e)
+
+----------------------------------------------------------------------------------------------------
+
+How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a result, the status of the ports was tested in the Kali Linux environment.
+
+![image](https://github.com/user-attachments/assets/1a04f3f2-3cf6-4d04-826b-abf12cd038cc)
+
 
 
 
