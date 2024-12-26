@@ -1,0 +1,12 @@
+Dec 26 18:13:22.920 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 26 18:13:22.921 HYPERVISOR: Started on IP = localhost, TCP port = 52990.
+Dec 26 18:13:22.925 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 26 18:13:22.925 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\verse\GNS3\projects\ZPF_Yapılandırması\project-files\dynamips 
+Dec 26 18:13:22.925 GENERAL: working_dir=C:\Users\verse\GNS3\projects\ZPF_Yapılandırması\project-files\dynamips
+Dec 26 18:13:22.925 HYPERVISOR: exec_cmd: ethsw create Switch4 
+Dec 26 18:13:24.182 HYPERVISOR: exec_cmd: nio create_udp udp-ed368f54-e85e-4200-9cf3-a51baaceee07 2018 127.0.0.1 2017 
+Dec 26 18:13:24.183 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-ed368f54-e85e-4200-9cf3-a51baaceee07 
+Dec 26 18:13:24.207 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-ed368f54-e85e-4200-9cf3-a51baaceee07 1 
+Dec 26 18:13:24.238 HYPERVISOR: exec_cmd: nio create_udp udp-78aefb38-63e4-40a6-ba45-773cc6897a7f 2019 192.168.137.130 20025 
+Dec 26 18:13:24.238 HYPERVISOR: exec_cmd: ethsw add_nio Switch4 udp-78aefb38-63e4-40a6-ba45-773cc6897a7f 
+Dec 26 18:13:24.268 HYPERVISOR: exec_cmd: ethsw set_access_port Switch4 udp-78aefb38-63e4-40a6-ba45-773cc6897a7f 1 
