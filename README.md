@@ -100,4 +100,9 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 #In this scenario, an advanced penetration test has been performed and the necessary precautions and tightening measures have been configured and tested on the network.
 ![image](https://github.com/user-attachments/assets/7490abe5-3e94-4a9b-ac5a-de21d9ce76d0)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+#In this scenario, real experiments were tried by connecting GNS3 and network devices on real image operating systems and a small-scale APT attack was tried.
+
+![image](https://github.com/user-attachments/assets/24cecfb5-3b6a-41de-9264-4eb235dd0e51)
 
