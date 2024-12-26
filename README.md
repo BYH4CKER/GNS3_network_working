@@ -94,3 +94,10 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 #In this scenario, Cisco VACL (VLAN Access Control List) was examined and tested on the necessary devices to ensure that the devices communicated over the correct VLAN.
 
 ![image](https://github.com/user-attachments/assets/f62d3e25-5bfd-4a8b-a2f2-7cb8e5e6265f)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+#In this scenario, an advanced penetration test has been performed and the necessary precautions and tightening measures have been configured and tested on the network.
+![image](https://github.com/user-attachments/assets/7490abe5-3e94-4a9b-ac5a-de21d9ce76d0)
+
+
