@@ -39,8 +39,14 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 ![image](https://github.com/user-attachments/assets/d51f2141-3e75-4319-b96b-f3c39aec276b)
 
----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 #Network topology where I took a look at how the HSRP protocol works in this topology and examined it via portchannel
+
+![image](https://github.com/user-attachments/assets/6549ce16-931b-4fe4-829b-4e6aeb553a77)
+
+
+---------------------------------------------------------------------------------------------------------
+
 
 ![image](https://github.com/user-attachments/assets/75ce9db0-dd17-4745-aa50-7dc3b011a4b1)
 -------------------------------------------------------------------------------------------------------
