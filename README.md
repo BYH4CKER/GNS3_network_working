@@ -5,4 +5,10 @@ The work I have done in the GNS3 environment has been shared openly with its fil
 
 ![image](https://github.com/user-attachments/assets/977801b1-8a62-4f2f-996f-b7e81eb26a13)
 
+---------------------------------------------------------------------------------------------------
+#It has been designed to test the scenario called #EIGRP on an advanced network and the relevant files have been uploaded.
+
+![image](https://github.com/user-attachments/assets/a4161274-d7ca-43df-b8ef-8e95b2be3ba9)
+
+
 
