@@ -115,3 +115,7 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 # In this scenario, how the data travels in the transport layer environment has been examined and tested theoretically and practically.
 
 ![image](https://github.com/user-attachments/assets/e285caeb-53fb-4907-9eb6-b91f23955873)
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+# A few of these scenarios have been loaded, network issues at CCNA, CCNP level have been studied theoretically and theoretical information on netowrk has been tested in the GNS3 environment.
