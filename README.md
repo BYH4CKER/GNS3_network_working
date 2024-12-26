@@ -89,3 +89,8 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 # How to effectively implement ZPF configuration in a network and which regions should be determined have been examined and tested live.
 
 ![image](https://github.com/user-attachments/assets/cd86f6f3-af7a-4703-8a43-b6cc2cc4d5e5)
+
+------------------------------------------------------------------------------------------------------------------
+#In this scenario, Cisco VACL (VLAN Access Control List) was examined and tested on the necessary devices to ensure that the devices communicated over the correct VLAN.
+
+![image](https://github.com/user-attachments/assets/f62d3e25-5bfd-4a8b-a2f2-7cb8e5e6265f)
