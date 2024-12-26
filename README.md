@@ -79,3 +79,8 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 ![image](https://github.com/user-attachments/assets/7d69fa86-b857-40d8-9da7-f84c841b27f4)
 
+---------------------------------------------------------------------------------------------------------
+#Port security violation modes were tested one by one and the outputs were analyzed and the logic was understood. Factors such as identifying a single MAC address and defining a single IP address were examined.
+
+![image](https://github.com/user-attachments/assets/ce54518d-ba12-46b6-8966-e4f8152c7c0b)
+
