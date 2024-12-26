@@ -110,3 +110,8 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 #In this scenario, protocols such as VTP, DHCP, STP were used together and their effects were examined.
 
 ![image](https://github.com/user-attachments/assets/d0d25beb-6421-4dd8-a9c3-ec4c44c788c3)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+# In this scenario, how the data travels in the transport layer environment has been examined and tested theoretically and practically.
+
+![image](https://github.com/user-attachments/assets/e285caeb-53fb-4907-9eb6-b91f23955873)
