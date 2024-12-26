@@ -84,3 +84,8 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 ![image](https://github.com/user-attachments/assets/ce54518d-ba12-46b6-8966-e4f8152c7c0b)
 
+---------------------------------------------------------------------------------------------------------------
+
+# How to effectively implement ZPF configuration in a network and which regions should be determined have been examined and tested live.
+
+![image](https://github.com/user-attachments/assets/cd86f6f3-af7a-4703-8a43-b6cc2cc4d5e5)
