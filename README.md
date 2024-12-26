@@ -46,8 +46,16 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 
 ---------------------------------------------------------------------------------------------------------
+# It is a study we did in the computer systems laboratory course at the university and is designed to write and test simple operations such as DHCP server detection and SNMP query on the network in Python.
+#Protocols such as #OSPF and HSRP were used.
 
+![image](https://github.com/user-attachments/assets/38d4aa51-cb9d-4af3-9575-42786acccc4f)
 
-![image](https://github.com/user-attachments/assets/75ce9db0-dd17-4745-aa50-7dc3b011a4b1)
 -------------------------------------------------------------------------------------------------------
 
+#A topology that I have examined has been designed, configured and tested in order to move it securely to another place over the #IPSEC network at the Network layer level.
+
+![image](https://github.com/user-attachments/assets/37d9009e-8fb7-41eb-a664-8e04ef02327e)
+
+
+-------------------------------------------------------------------------------------------------------
