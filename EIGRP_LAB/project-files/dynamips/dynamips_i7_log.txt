@@ -1,0 +1,9 @@
+Dec 26 11:31:42.652 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 26 11:31:42.653 HYPERVISOR: Started on IP = localhost, TCP port = 59874.
+Dec 26 11:31:42.657 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 26 11:31:42.657 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\verse\GNS3\projects\EIGRP_LAB\project-files\dynamips 
+Dec 26 11:31:42.658 GENERAL: working_dir=C:\Users\verse\GNS3\projects\EIGRP_LAB\project-files\dynamips
+Dec 26 11:31:42.658 HYPERVISOR: exec_cmd: ethsw create Switch7 
+Dec 26 11:31:49.376 HYPERVISOR: exec_cmd: nio create_udp udp-290624f1-91a2-4e1f-a7d3-8290c7843ce5 2006 192.168.137.130 20090 
+Dec 26 11:31:49.380 HYPERVISOR: exec_cmd: ethsw add_nio Switch7 udp-290624f1-91a2-4e1f-a7d3-8290c7843ce5 
+Dec 26 11:31:49.400 HYPERVISOR: exec_cmd: ethsw set_access_port Switch7 udp-290624f1-91a2-4e1f-a7d3-8290c7843ce5 1 

@@ -1,0 +1,15 @@
+Dec 26 11:31:44.247 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 26 11:31:44.247 HYPERVISOR: Started on IP = localhost, TCP port = 59897.
+Dec 26 11:31:44.758 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 26 11:31:44.759 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\verse\GNS3\projects\EIGRP_LAB\project-files\dynamips 
+Dec 26 11:31:44.759 GENERAL: working_dir=C:\Users\verse\GNS3\projects\EIGRP_LAB\project-files\dynamips
+Dec 26 11:31:44.759 HYPERVISOR: exec_cmd: ethsw create Switch14 
+Dec 26 11:31:51.012 HYPERVISOR: exec_cmd: nio create_udp udp-fc1a2fe6-fee0-4773-8506-2cecefbfe6af 2017 192.168.137.130 20123 
+Dec 26 11:31:51.014 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-fc1a2fe6-fee0-4773-8506-2cecefbfe6af 
+Dec 26 11:31:51.037 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-fc1a2fe6-fee0-4773-8506-2cecefbfe6af 1 
+Dec 26 11:31:51.317 HYPERVISOR: exec_cmd: nio create_udp udp-c7f5c911-a162-473e-9a4b-201ca2bd99d5 2018 192.168.137.130 20126 
+Dec 26 11:31:51.318 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-c7f5c911-a162-473e-9a4b-201ca2bd99d5 
+Dec 26 11:31:51.346 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-c7f5c911-a162-473e-9a4b-201ca2bd99d5 1 
+Dec 26 11:31:51.407 HYPERVISOR: exec_cmd: nio create_udp udp-00753ade-d6aa-4cc2-b81c-e97f5e3a1662 2019 192.168.137.130 20129 
+Dec 26 11:31:51.407 HYPERVISOR: exec_cmd: ethsw add_nio Switch14 udp-00753ade-d6aa-4cc2-b81c-e97f5e3a1662 
+Dec 26 11:31:51.438 HYPERVISOR: exec_cmd: ethsw set_access_port Switch14 udp-00753ade-d6aa-4cc2-b81c-e97f5e3a1662 1 
