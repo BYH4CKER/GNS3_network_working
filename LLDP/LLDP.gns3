@@ -1,0 +1,151 @@
+{
+    "auto_close": true,
+    "auto_open": false,
+    "auto_start": false,
+    "drawing_grid_size": 25,
+    "grid_size": 75,
+    "name": "LLDP",
+    "project_id": "896deb2b-5a77-4aed-a181-876ef598967b",
+    "revision": 9,
+    "scene_height": 1000,
+    "scene_width": 2000,
+    "show_grid": false,
+    "show_interface_labels": false,
+    "show_layers": false,
+    "snap_to_grid": false,
+    "supplier": null,
+    "topology": {
+        "computes": [],
+        "drawings": [
+            {
+                "drawing_id": "28a85857-92e8-4461-909d-80453b2c55c3",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"145\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">LLDP +CDP LAB</text></svg>",
+                "x": -348,
+                "y": -272,
+                "z": 2
+            }
+        ],
+        "links": [
+            {
+                "filters": {},
+                "link_id": "63b6f29a-be99-4632-b7c9-57a0a7fe68c6",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0/0",
+                            "x": 56,
+                            "y": -1
+                        },
+                        "node_id": "91552999-14be-49c5-b4fa-ae00020638cb",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0/0",
+                            "x": -5,
+                            "y": 48
+                        },
+                        "node_id": "af088b8e-143f-453e-98cb-4ef777dc59a6",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            }
+        ],
+        "nodes": [
+            {
+                "compute_id": "vm",
+                "console": 5000,
+                "console_auto_start": false,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 48,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "SW1",
+                    "x": 2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "SW1",
+                "node_id": "af088b8e-143f-453e-98cb-4ef777dc59a6",
+                "node_type": "iou",
+                "port_name_format": "Ethernet{segment0}/{port0}",
+                "port_segment_size": 4,
+                "properties": {
+                    "application_id": 1,
+                    "ethernet_adapters": 4,
+                    "l1_keepalives": false,
+                    "md5sum": "9549a20a7391fb849da32caa77a0d254",
+                    "nvram": 16,
+                    "path": "i86bi-linux-l2-adventerprisek9-15.1a.bin",
+                    "ram": 256,
+                    "serial_adapters": 0,
+                    "usage": "",
+                    "use_default_iou_values": true
+                },
+                "symbol": ":/symbols/classic/multilayer_switch.svg",
+                "template_id": "e1972903-53d9-49ff-a0b3-ec8cbc97a79e",
+                "width": 51,
+                "x": -3,
+                "y": -258,
+                "z": 1
+            },
+            {
+                "compute_id": "vm",
+                "console": 5001,
+                "console_auto_start": false,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 48,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "SW2",
+                    "x": 2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "SW2",
+                "node_id": "91552999-14be-49c5-b4fa-ae00020638cb",
+                "node_type": "iou",
+                "port_name_format": "Ethernet{segment0}/{port0}",
+                "port_segment_size": 4,
+                "properties": {
+                    "application_id": 2,
+                    "ethernet_adapters": 4,
+                    "l1_keepalives": false,
+                    "md5sum": "9549a20a7391fb849da32caa77a0d254",
+                    "nvram": 16,
+                    "path": "i86bi-linux-l2-adventerprisek9-15.1a.bin",
+                    "ram": 256,
+                    "serial_adapters": 0,
+                    "usage": "",
+                    "use_default_iou_values": true
+                },
+                "symbol": ":/symbols/classic/multilayer_switch.svg",
+                "template_id": "e1972903-53d9-49ff-a0b3-ec8cbc97a79e",
+                "width": 51,
+                "x": -532,
+                "y": -98,
+                "z": 1
+            }
+        ]
+    },
+    "type": "topology",
+    "variables": null,
+    "version": "2.2.49",
+    "zoom": 100
+}
