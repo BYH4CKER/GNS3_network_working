@@ -21,6 +21,10 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 
 ![image](https://github.com/user-attachments/assets/1a04f3f2-3cf6-4d04-826b-abf12cd038cc)
 
+----------------------------------------------------------------------------------------------------
+#A lab study on the #VRRP Protocol, how it works and the configurations can be opened and read directly with the GNS3 extension mentioned by name in the attachment.
+
+![image](https://github.com/user-attachments/assets/09c29b51-3784-4923-959b-0954068b6288)
 
 
 
