@@ -1,4 +1,4 @@
-# GNS3_network_working
+![image](https://github.com/user-attachments/assets/b7f232e1-175f-46a4-ae4a-7de2dce98c2d)# GNS3_network_working
 The work I have done in the GNS3 environment has been shared openly with its files for everyone to benefit from.
 
 #DHCP Scenario: By filtering the interfaces defined on the VLAN, the DHCP server was tested to work successfully and configurations were added to the devices.
@@ -22,9 +22,19 @@ How #Radius/Tacacs+ AAA Protocols work and are configured was examined, and as a
 ![image](https://github.com/user-attachments/assets/1a04f3f2-3cf6-4d04-826b-abf12cd038cc)
 
 ----------------------------------------------------------------------------------------------------
+
 #A lab study on the #VRRP Protocol, how it works and the configurations can be opened and read directly with the GNS3 extension mentioned by name in the attachment.
 
 ![image](https://github.com/user-attachments/assets/09c29b51-3784-4923-959b-0954068b6288)
+
+----------------------------------------------------------------------------------------------------
+
+##Tacacs+ It was tried to actually test the protocol, try it on the R1 router and take the inputs from another place and verify from there.
+
+![image](https://github.com/user-attachments/assets/e2cb0537-5b60-487d-aa54-937e25f938e0)
+
+------------------------------------------------------------------------------------------------------
+
 
 
 
